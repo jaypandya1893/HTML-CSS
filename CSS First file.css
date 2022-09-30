@@ -1,0 +1,9 @@
+h1
+{
+background-color: blue;
+}
+p{color: rgb(228, 5, 5);}
+.about {color: aquamarine; background-color: brown;}
+.selector{color: aquamarine; background-color: rgb(114, 14, 14);}
+#types {color: aquamarine; background-color: rgb(117, 101, 101);}
+*{background-color: black;}
