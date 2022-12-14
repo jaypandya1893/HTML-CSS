@@ -1,0 +1,4 @@
+input:focus{background-color: darkslategrey;outline-color: blue;}
+input:hover{font-size: 38px;counter-reset: red;background-color: burlywood;}
+input:visited{color: blue;}
+input:active{color: black;}

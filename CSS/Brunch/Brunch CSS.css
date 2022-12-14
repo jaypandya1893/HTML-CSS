@@ -1,0 +1,147 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.sec1
+{
+background-image: url(./IMAGE/Place\ Your\ Design\ Here\ \(Double\ Click\ to\ Edit\).png);
+background-repeat: no-repeat;
+background-size: cover;
+/* height: 100vh; */
+}
+.all
+{
+    /* width: 100%; */
+    margin: 0%;
+    /* height: 100%; */
+}
+.brunch
+{
+    color: white;
+    padding: 0px 40px 200px 100px;
+    font-size: 23px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0 40px;
+    line-height: 140px;
+    border-radius: 30px;
+    display: inline-block;
+}
+.row
+{
+display: flex;
+}
+.row1
+{
+    /* justify-content: space-between; */
+}
+.row ul li
+{
+    /* display: flex; */
+    list-style: none;
+    display: inline-block;
+}
+.row ul li a
+{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-size: 23px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0 20px;
+    line-height: 140px;
+    border-radius: 30px;
+    
+}
+a:hover
+{
+    background-color: rgba(175, 109, 175, 0.973);
+
+}
+.box
+{
+    border: none;
+    background-color: white;
+    opacity: 0.7;
+    width: 30%;
+    /* height: 39%; */
+    margin: 5% 0% 0% 36%;
+}
+.pb
+{
+    padding: 17% 2%;
+    /* align-items: center; */
+}
+.p1
+{
+    font-size: 35px;
+    color: rgb(49, 32, 32);
+    margin: 0% 0 0 35%;
+    padding-bottom: 4px;
+}
+.p2
+{
+    font-size: 35px;
+    color: red;
+    margin: 0% 0 0 18%;
+    padding-bottom: 4px;
+}
+.p3
+{
+    font-size: 25px;
+    color: rgb(49, 32, 32);
+    margin: 0% 0 0 34%;
+    padding-bottom: 4px;
+}
+.sec2
+{
+    background-color: #2a3b40;
+    /* height: 100vh; */
+}
+.head
+{
+
+}
+br
+{
+    justify-content: space-between;
+}
+.tt
+{
+    /* display: inline-block; */
+    color: white;
+    width: 40%;
+    /* text-align: center; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tt h5
+{
+    font-size: 20px;
+    padding-bottom: 6px;
+}
+.im
+{
+    display: inline-block;   
+   /* padding: 0px 0px 0px 166px; */
+}
+
+.new
+{
+    display: flex;
+    padding-top: 10px;
+    background-color:  #ffffff;
+    justify-content: space-between;
+}
+.new11
+{
+text-align: center;
+margin-bottom: 10px;
+font-size: 20px;
+}
+.new1
+{
+    text-align: justify;
+    padding: 88px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 37%;
+}

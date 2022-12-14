@@ -1,0 +1,10 @@
+Lecture 1
+h1 {background-color: blue;} /*Eliment Selector*/
+p{color: rgb(228, 5, 5);} /*Eliment Selector*/
+.about {color: aquamarine; background-color: brown;}/*Class Selector*/
+.selector{color: aquamarine; background-color: rgb(114, 14, 14);}/*Class Selector*/
+#types {color: aquamarine; background-color: rgb(117, 101, 101);} /*ID Selector*/
+*{background-color: black;} /*Universal Selector*/
+
+
+
